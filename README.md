@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to element visibility. The bug causes a div element to be visible on page load, despite the intention for it to be hidden initially. The solution showcases how to correct this issue.
